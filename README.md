@@ -125,13 +125,3 @@ uvicorn main:app --reload
 
 ---
 
-## Deployment (Railway)
-
-1. Push this repo to GitHub.
-2. Go to [railway.app](https://railway.app) → New Project → Deploy from GitHub.
-3. Select your repo → Railway auto-detects Python + Procfile.
-4. Click **Deploy** → wait ~2 min → get your public URL.
-
----
-
-*Datastraw AI + Tech Intern Assessment — June 2026*
