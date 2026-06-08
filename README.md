@@ -6,7 +6,7 @@ A lightweight customer support ticket management system built with **FastAPI**, 
 
 ## Live URL
 
-> 🔗 **[](https://web-production-2ee9c7.up.railway.app/)**
+> 🔗 https://web-production-2ee9c7.up.railway.app/
 
 ---
 
